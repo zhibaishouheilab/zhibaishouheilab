@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhibaishouheilab
-- 👀 I’m interested in biomedical engineering
-- 🌱 I’m currently learning machine learning applied in medical image
+- 👀 I’m interested in medical image analysis and deep learning
+- 🌱 I’m currently focused on the AI4Spine project
 - 📫 How to reach me :please email me to 906866373@qq.com or zhi-bai-shou-hei@sjtu.edu.cn
 
 <!---
